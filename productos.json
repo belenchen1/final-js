@@ -1,0 +1,122 @@
+[
+   {
+      "id": "mochila-1",
+      "titulo": "Mochilas brillantes",
+      "imagen": "images/productos/mochilas/m1.jpg",
+      "categoria": {
+         "nombre": "Mochilas",
+         "id": "mochilas"
+      },
+      "precio": 10000
+   },
+   {
+      "id": "mochila-2",
+      "titulo": "Mochila FW trabajo",
+      "imagen": "images/productos/mochilas/m2.jpg",
+      "categoria": {
+         "nombre": "Mochilas",
+         "id": "mochilas"
+      },
+      "precio": 9250
+   },
+   {
+      "id": "mochila-3",
+      "titulo": "Mochila FW fluor",
+      "imagen": "images/productos/mochilas/m3.jpg",
+      "categoria": {
+         "nombre": "Mochilas",
+         "id": "mochilas"
+      },
+      "precio": 7000
+   },
+   {
+      "id": "mochila-4",
+      "titulo": "Bolso portacomputadora FW",
+      "imagen": "images/productos/mochilas/m4.jpg",
+      "categoria": {
+         "nombre": "Mochilas",
+         "id": "mochilas"
+      },
+      "precio": 12000
+   },
+   {
+      "id": "agenda-1",
+      "titulo": "Agenda 1",
+      "imagen": "images/productos/agendas/a1.jpg",
+      "categoria": {
+         "nombre": "Agendas",
+         "id": "agendas"
+      },
+      "precio": 5000
+   },
+   {
+      "id": "agenda-2",
+      "titulo": "Agenda 2",
+      "imagen": "images/productos/agendas/a2.jpg",
+      "categoria": {
+         "nombre": "Agendas",
+         "id": "agendas"
+      },
+      "precio": 5000
+   },
+   {
+      "id": "agenda-3",
+      "titulo": "Agenda 3",
+      "imagen": "images/productos/agendas/a3.jpg",
+      "categoria": {
+         "nombre": "Agendas",
+         "id": "agendas"
+      },
+      "precio": 5000
+   },
+   {
+      "id": "agenda-4",
+      "titulo": "Agenda 4",
+      "imagen": "images/productos/agendas/a4.jpg",
+      "categoria": {
+         "nombre": "Agendas",
+         "id": "agendas"
+      },
+      "precio": 5000
+   },
+   {
+      "id": "escolar-1",
+      "titulo": "Art. escolar 1",
+      "imagen": "images/productos/escolar/e1.jpg",
+      "categoria": {
+         "nombre": "escolar",
+         "id": "escolar"
+      },
+      "precio": 5000
+   },
+   {
+      "id": "escolar-2",
+      "titulo": "Art. escolar 2",
+      "imagen": "images/productos/escolar/e2.jpg",
+      "categoria": {
+         "nombre": "escolar",
+         "id": "escolar"
+      },
+      "precio": 5000
+   },
+   {
+      "id": "escolar-3",
+      "titulo": "Art. escolar 3",
+      "imagen": "images/productos/escolar/e3.jpg",
+      "categoria": {
+         "nombre": "escolar",
+         "id": "escolar"
+      },
+      "precio": 5000
+   },
+   {
+      "id": "escolar-4",
+      "titulo": "Art. escolar 4",
+      "imagen": "images/productos/escolar/e4.jpg",
+      "categoria": {
+         "nombre": "escolar",
+         "id": "escolar"
+      },
+      "precio": 5000
+   }
+]
