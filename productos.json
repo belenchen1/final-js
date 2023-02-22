@@ -21,7 +21,7 @@
    },
    {
       "id": "mochila-3",
-      "titulo": "Mochila FW fluor",
+      "titulo": "Mochila FW fluo",
       "imagen": "images/productos/mochilas/m3.jpg",
       "categoria": {
          "nombre": "Mochilas",
@@ -31,13 +31,33 @@
    },
    {
       "id": "mochila-4",
-      "titulo": "Bolso portacomputadora FW",
+      "titulo": "Portacomputadora FW",
       "imagen": "images/productos/mochilas/m4.jpg",
       "categoria": {
          "nombre": "Mochilas",
          "id": "mochilas"
       },
       "precio": 12000
+   },
+   {
+      "id": "mochilahp",
+      "titulo": "Mochila Harry Potter",
+      "imagen": "images/productos/mochilas/mochila-hp.jpg",
+      "categoria": {
+         "nombre": "mochilas",
+         "id": "mochilas"
+      },
+      "precio": 2500
+   },
+   {
+      "id": "mochilahp",
+      "titulo": "Mochila Harry Potter Casas",
+      "imagen": "images/productos/mochilas/mochila-hp2.jpg",
+      "categoria": {
+         "nombre": "mochilas",
+         "id": "mochilas"
+      },
+      "precio": 2500
    },
    {
       "id": "agenda-1",
@@ -47,7 +67,7 @@
          "nombre": "Agendas",
          "id": "agendas"
       },
-      "precio": 5000
+      "precio": 3550
    },
    {
       "id": "agenda-2",
@@ -57,7 +77,7 @@
          "nombre": "Agendas",
          "id": "agendas"
       },
-      "precio": 5000
+      "precio": 4600
    },
    {
       "id": "agenda-3",
@@ -77,46 +97,126 @@
          "nombre": "Agendas",
          "id": "agendas"
       },
-      "precio": 5000
+      "precio": 3000
    },
    {
       "id": "escolar-1",
-      "titulo": "Art. escolar 1",
+      "titulo": "Cartuchera doble cierre",
       "imagen": "images/productos/escolar/e1.jpg",
       "categoria": {
          "nombre": "escolar",
          "id": "escolar"
       },
-      "precio": 5000
+      "precio": 3100
    },
    {
       "id": "escolar-2",
-      "titulo": "Art. escolar 2",
+      "titulo": "Cartuchera escolar",
       "imagen": "images/productos/escolar/e2.jpg",
       "categoria": {
          "nombre": "escolar",
          "id": "escolar"
       },
-      "precio": 5000
+      "precio": 2700
    },
    {
       "id": "escolar-3",
-      "titulo": "Art. escolar 3",
+      "titulo": "Portadocumentos",
       "imagen": "images/productos/escolar/e3.jpg",
       "categoria": {
          "nombre": "escolar",
          "id": "escolar"
       },
-      "precio": 5000
+      "precio": 3000
    },
    {
       "id": "escolar-4",
-      "titulo": "Art. escolar 4",
+      "titulo": "Cartuchera simple",
       "imagen": "images/productos/escolar/e4.jpg",
       "categoria": {
          "nombre": "escolar",
          "id": "escolar"
       },
-      "precio": 5000
+      "precio": 2500
+   },
+   {
+      "id": "art-1",
+      "titulo": "Acrílicos EQ 250 gr",
+      "imagen": "images/productos/artistica/ar1.jpg",
+      "categoria": {
+         "nombre": "artistica",
+         "id": "artistica"
+      },
+      "precio": 2500
+   },
+   {
+      "id": "art-2",
+      "titulo": "Juego de pinceles",
+      "imagen": "images/productos/artistica/ar2.jpg",
+      "categoria": {
+         "nombre": "artistica",
+         "id": "artistica"
+      },
+      "precio": 2500
+   },
+   {
+      "id": "art-3",
+      "titulo": "Acrílicos Eterna 250 gr",
+      "imagen": "images/productos/artistica/ar3.jpg",
+      "categoria": {
+         "nombre": "artistica",
+         "id": "artistica"
+      },
+      "precio": 2500
+   },
+   {
+      "id": "art-7",
+      "titulo": "Arcilla  SIFAP",
+      "imagen": "images/productos/artistica/ar7.jpg",
+      "categoria": {
+         "nombre": "artistica",
+         "id": "artistica"
+      },
+      "precio": 2500
+   },
+   {
+      "id": "jug-1",
+      "titulo": "Peluches 'Mickey & Minnie'",
+      "imagen": "images/productos/jugueteria/j1.jpg",
+      "categoria": {
+         "nombre": "jugueteria",
+         "id": "jugueteria"
+      },
+      "precio": 2500
+   },
+   {
+      "id": "jug-3",
+      "titulo": "Pop it redondo",
+      "imagen": "images/productos/jugueteria/j3.jpg",
+      "categoria": {
+         "nombre": "jugueteria",
+         "id": "jugueteria"
+      },
+      "precio": 2500
+   },
+   {
+      "id": "jug-5",
+      "titulo": "Juego de mesa Preguntados",
+      "imagen": "images/productos/jugueteria/j5.jpg",
+      "categoria": {
+         "nombre": "jugueteria",
+         "id": "jugueteria"
+      },
+      "precio": 2500
+   },
+   {
+      "id": "jug-7",
+      "titulo": "Bebote realista 40cm",
+      "imagen": "images/productos/jugueteria/j7.jpg",
+      "categoria": {
+         "nombre": "jugueteria",
+         "id": "jugueteria"
+      },
+      "precio": 4500
    }
 ]
